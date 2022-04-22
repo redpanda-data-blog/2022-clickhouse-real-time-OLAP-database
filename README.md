@@ -1,0 +1,1 @@
+# redpanda-clickhousedb-demo
